@@ -1,0 +1,2 @@
+# DSA-Data-Analysis-Capstone-Project-
+CASE STUDY 2: KULTRA MEGA STORES INVENTORY 
